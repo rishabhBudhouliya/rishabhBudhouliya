@@ -7,7 +7,7 @@ I love to build systems from scratch:
 - [Re-writing the SQLite reader with no GC in Zig](https://github.com/rishabhBudhouliya/ZIGLite)
 
 Previously,
-- Worked as a software engineer at @narvar for 4 years
+- Worked as a software engineer at [Narvar](https://corp.narvar.com/) for 4 years
 - [I’ve contributed to Jenkins to improve their performance](https://github.com/jenkinsci/git-plugin/pull/931)
 
-I’m taking a step back to deepen my CS fundamentals at @nyu.
+I’m taking a step back to deepen my CS fundamentals at NYU.
