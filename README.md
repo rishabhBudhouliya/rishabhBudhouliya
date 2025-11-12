@@ -1,5 +1,4 @@
 # Hey, I’m Rishabh
----
 I’m a backend engineer with an interest in databases and distributed systems. 
 
 I love to build systems from scratch:
