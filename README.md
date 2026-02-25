@@ -11,4 +11,4 @@ Previously,
 - Worked as a software engineer at [Narvar](https://corp.narvar.com/) for 4 years
 - [I’ve contributed to Jenkins to improve their performance](https://github.com/jenkinsci/git-plugin/pull/931)
 
-I’m taking a step back to deepen my CS fundamentals at NYU.
+I’m currently pursuing a master's in Computer Engineering from NYU.
